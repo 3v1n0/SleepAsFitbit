@@ -53,3 +53,7 @@
   text-buffer: "Dismiss";
 }
 
+.panic-counter {
+ display: none;
+ fill: red;
+}
